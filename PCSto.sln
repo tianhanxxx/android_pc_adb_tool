@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSto", "PCSto\PCSto.csproj", "{1ADA88B8-EBD8-40F8-B3A0-933622F42F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdbLibrary", "AdbLibrary\AdbLibrary.csproj", "{2D577095-D496-4F35-9997-7A590D25BBD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationConfig", "ApplicationConfig\ApplicationConfig.csproj", "{DDE98B8E-8BDE-45A8-8AA9-FBB14562F857}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StoPCTool", "StoPCTool\StoPCTool.vdproj", "{EE671780-D6EC-4373-A857-F46E9BAD998C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADA88B8-EBD8-40F8-B3A0-933622F42F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADA88B8-EBD8-40F8-B3A0-933622F42F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADA88B8-EBD8-40F8-B3A0-933622F42F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADA88B8-EBD8-40F8-B3A0-933622F42F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D577095-D496-4F35-9997-7A590D25BBD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D577095-D496-4F35-9997-7A590D25BBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D577095-D496-4F35-9997-7A590D25BBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D577095-D496-4F35-9997-7A590D25BBD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE98B8E-8BDE-45A8-8AA9-FBB14562F857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE98B8E-8BDE-45A8-8AA9-FBB14562F857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE98B8E-8BDE-45A8-8AA9-FBB14562F857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE98B8E-8BDE-45A8-8AA9-FBB14562F857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE671780-D6EC-4373-A857-F46E9BAD998C}.Debug|Any CPU.ActiveCfg = Debug
+		{EE671780-D6EC-4373-A857-F46E9BAD998C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
